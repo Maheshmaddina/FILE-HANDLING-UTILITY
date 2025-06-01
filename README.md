@@ -14,7 +14,7 @@
 
 ## DESCRIPTIONS
 
-📘 Description:
+ Description:
 The Java program named FileHandler demonstrates basic file operations: reading, writing, and modifying text files using standard Java I/O classes.
 PLATFORM USED : VISUAL STUDIO CODE.
 
@@ -38,14 +38,14 @@ After that, it replaces the word "world" with "Java" using the modifyFile method
 
 Finally, it reads and prints the updated file to show the modification.
 
-🔧 Technologies Used:
+# Technologies Used:
 File I/O Classes: BufferedWriter, BufferedReader, FileWriter, FileReader.
 
 NIO Package: Files, Paths for simplified file read/write operations.
 
 Collections: List and ArrayList to store and manipulate file lines.
 
-🧠 Purpose:
+# Purpose:
 This program is useful for beginners learning Java I/O operations. It shows how to:
 
 Create and write to a file.
