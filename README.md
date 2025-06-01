@@ -55,3 +55,7 @@ Read file content line by line.
 Perform simple text replacement in a file.
 
 The logic is clear and modular, making it easy to expand (e.g., user input, appending, or deleting lines).
+
+
+## OUTPUT: 
+![Image](https://github.com/user-attachments/assets/11106693-14d4-41fe-8fc5-2184de83210b)
